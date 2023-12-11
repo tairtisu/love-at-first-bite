@@ -10,6 +10,13 @@
     background-position: center;
     height: 100vh;
 }
+#recommendations{
+    background: url(recommendations.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
 footer {
     background-color: #f8e0d5;
     margin-bottom: -20px;
