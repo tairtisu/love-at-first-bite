@@ -39,7 +39,7 @@ nav ul li a{
     margin-top: 15px;
 }
 #pastries{
-    background: url(images/pastriesmenu.png);
+    background: url(pastriesmenu.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
