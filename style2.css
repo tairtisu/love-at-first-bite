@@ -41,6 +41,7 @@ nav ul li a{
 #pastries{
     background: url(pastriesmenu.png);
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
     height: 100vh;
 }
