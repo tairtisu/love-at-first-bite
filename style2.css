@@ -7,13 +7,12 @@
     background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(background.png);
     background-size: cover;
     background-position: center;
-    height: 50vh;
+    height: 150vh;
 #pastries{
     background: url(pastriesmenu.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100vh;
 }
 footer {
     background-color: #FFF4EF;
